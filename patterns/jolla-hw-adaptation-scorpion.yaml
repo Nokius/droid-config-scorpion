@@ -9,6 +9,7 @@ Requires:
 - pattern:jolla-ui-configuration-scorpion
 
 - droid-hal-scorpion
+- droid-hal-scorpion-detritus
 - droid-hal-scorpion-img-boot
 - droid-hal-scorpion-kernel-modules
 - droid-config-scorpion-sailfish
