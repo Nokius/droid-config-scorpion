@@ -5,7 +5,7 @@
 %define vendor sony
 
 %define vendor_pretty Sony
-%define device_pretty Xperia Z3 Compact Tablet
+%define device_pretty Xperia Z3 Tablet Compact
 
 %define dcd_path ./
 
