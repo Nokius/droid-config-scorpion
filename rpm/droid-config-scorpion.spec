@@ -9,7 +9,7 @@
 
 %define dcd_path ./
 
-%define pixel_ratio 1.6
+%define pixel_ratio 1.25
 
 %define have_modem 1
 
