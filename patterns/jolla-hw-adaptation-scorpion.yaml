@@ -12,6 +12,7 @@ Requires:
 - droid-hal-scorpion-detritus
 - droid-hal-scorpion-img-boot
 - droid-hal-scorpion-kernel-modules
+- droid-config-scorpion-flashing
 - droid-config-scorpion-sailfish
 - droid-config-scorpion-pulseaudio-settings
 - droid-config-scorpion-policy-settings
