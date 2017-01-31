@@ -53,6 +53,9 @@ Requires:
 # OTG-USB support
 - usbstick-utils
 
+# SD-Card support
+- sd-utils
+
 # Extra useful modes not officially supported:
 # might need some configuration to get working
 - usb-moded-mass-storage-android-config
